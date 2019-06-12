@@ -1,0 +1,6 @@
+
+4. A saída não pode ser determinada, pois a saída é: S N N N N N N N N N .
+
+
+5. C está correto. Cada thread obterá um número único, não importa quantas Threads estão tentando criar o número. Assim D é incorreto. 
+A e B estão incorretas como o código não dará qualquer compilação ou erro de tempo de execução.
