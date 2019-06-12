@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=d
+comment1.target=void\ adicionar(Disciplina)
+comment10.params=
+comment10.target=int\ getCod()
+comment2.params=
+comment2.target=void\ listar()
+comment3.params=coddisciplina
+comment3.target=Disciplina\ buscar(int)
+comment4.params=coddisciplina
+comment4.target=boolean\ excluir(int)
+comment5.params=nome
+comment5.target=boolean\ setNome(java.lang.String)
+comment6.params=carga
+comment6.target=boolean\ setCarga(int)
+comment7.params=cod
+comment7.target=boolean\ setCod(int)
+comment8.params=
+comment8.target=void\ lerDados()
+comment9.params=
+comment9.target=void\ mostrardados()
+numComments=11
